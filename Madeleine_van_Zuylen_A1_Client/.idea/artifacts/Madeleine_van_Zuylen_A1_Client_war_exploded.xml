@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Madeleine_van_Zuylen_A1_Client:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Madeleine_van_Zuylen_A1_Client_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Madeleine_van_Zuylen_A1_Client/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Madeleine_van_Zuylen_A1_Client" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
